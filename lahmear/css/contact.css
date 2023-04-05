@@ -1,0 +1,76 @@
+body{
+   background-color:violet;
+}
+
+
+
+ {
+   //height: 100px;
+   //width: 90%;
+   background-color: violet;
+}
+
+.Navbar
+{
+ height: 100px;
+ width: 100%;
+ background-color: violet
+ display:flex;
+ text-align: center;
+;
+
+}
+
+ul
+{
+ margin-left: 400px;
+ margin-top:-14px;
+}
+
+li
+{
+ float:left;
+ margin:20px;
+ display:inline;
+}
+
+li a 
+{
+ text-decoration:none;
+}    
+h1
+ {
+	//color: violet;
+ text-align: center; 
+  padding: 40px;
+}
+
+.2nd
+ {
+   /*height: 100px;
+   width: 100%;*/
+   background-color: purple;
+   padding-top: 40px 50px;
+   color: black;
+}
+
+  
+img
+ {
+   padding-top: 20px;
+   height: 700px;
+   width: 800px;
+}
+   
+images
+  {display:inline-block;
+width:10%;
+height:10 px
+}
+
+
+footer{
+   text-align:center;
+   family-font:italic;
+   background-color:purple;
+}

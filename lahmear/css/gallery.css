@@ -1,0 +1,71 @@
+.Banner
+ {
+   //height: 100px;
+   //width: 90%;
+   background-color: violet;
+}
+
+.Navbar
+{
+ height: 100px;
+ width: 100%;
+ background-color: violet;
+ display: flex;
+}
+
+ul
+{
+ margin-left: 400px;
+ margin-top:-14px;
+}
+
+li
+{
+ float:left;
+ margin:20px;
+ color:black;
+ display:inline;
+}
+
+li a 
+{
+ text-decoration:none;
+}  
+h1
+ {
+	//color: violet;
+ text-align: center; 
+  padding: 40px;
+}
+
+.2nd
+ {
+   /*height: 100px;
+   width: 100%;*/
+   background-color: purple;
+   padding-top: 40px 50px;
+   color: black;
+}
+
+  
+.images{
+display:inline-block;
+width:100%;
+height:fit-content;
+}
+
+img
+ {
+   display:inline-block;
+   padding-top: 20px;
+   height: 500px;
+   width: 40%;
+   border-radius: 50px; 
+}
+
+footer
+  {
+   text-align:center;
+   family-font:italic;
+   background-color:purple;
+}      

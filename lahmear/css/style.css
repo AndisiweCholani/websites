@@ -1,0 +1,75 @@
+.Banner{
+   height: 100px;
+   width: 100%;
+   background-color: violet;
+
+}
+
+body{
+   background-color:violet;
+}
+ 
+
+#mainNav{
+
+ display:flex;
+ height: 80px;
+ width: 100%;
+ background-color: violet;
+
+}
+
+
+ul
+{
+display:inline-block;
+margin: auto auto;
+}
+
+
+
+li{
+
+float:left;
+margin: 20px;
+display:inline;
+}
+
+li a {
+
+ text-decoration:none;
+}
+
+h1{
+//color: violet;
+ text-align: center; 
+  padding: 40px;
+}
+
+.2nd {
+   background: black;
+   color: red;	
+}
+
+
+  
+img{
+   padding-top: 20px;
+   height: 500px;
+   width: 600px;
+}
+
+p{
+ text-align:center;
+ family-font:Sans;
+ font-size:18px;
+
+}
+
+
+footer{
+   text-align:center;
+   family-font:italic;
+   background-color:purple;
+}   
+        
